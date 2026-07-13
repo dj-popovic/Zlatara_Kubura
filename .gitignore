@@ -1,0 +1,13 @@
+# Sistemski
+.DS_Store
+Thumbs.db
+
+# Zavisnosti / build
+node_modules/
+vendor/
+*.log
+
+# Tajne — nikad ne guraj ove
+.env
+.env.local
+wp-config.php
